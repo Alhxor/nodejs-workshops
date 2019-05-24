@@ -1,0 +1,19 @@
+{
+  "name": "@alhxor/my-first-package",
+  "version": "1.0.1",
+  "description": "Created for learning purposes with how-to-npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sergei Korchemkin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://Alhxor@bitbucket.org/Alhxor/how-to-npm.git"
+  },
+  "homepage": "https://bitbucket.org/Alhxor/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
